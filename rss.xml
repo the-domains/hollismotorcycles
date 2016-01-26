@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HollisMotorcycles]]></title>
         <description><![CDATA[HollisMotorcycles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hollismotorcycles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:26:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 19:47:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hollismotorcycles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7a212fe-42c6-4378-8b79-9dcefc70cdc2.jpg">]]></description>
+            <link>https://thegrid.ai/hollismotorcycles/10d3f357-2477-4f10-8016-a33172f81e47/index.html</link>
+            <guid isPermaLink="false">10d3f357-2477-4f10-8016-a33172f81e47</guid>
+            <pubDate>Tue, 26 Jan 2016 19:47:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd1f6fe6-baa1-453d-b1c9-f8d83af8e69b.jpg">]]></description>
-            <link>undefined3d566340-658e-4ea2-977c-2b115183aa31/index.html</link>
+            <link>https://thegrid.ai/hollismotorcycles/3d566340-658e-4ea2-977c-2b115183aa31/index.html</link>
             <guid isPermaLink="false">3d566340-658e-4ea2-977c-2b115183aa31</guid>
             <pubDate>Tue, 26 Jan 2016 19:26:41 GMT</pubDate>
         </item>
